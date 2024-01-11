@@ -1,0 +1,4 @@
+<http://3po.ch/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://3po.ch/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://3po.ch/1> <http://purl.org/dc/elements/1.1/relation> <http://3po.ch/2> .
+
